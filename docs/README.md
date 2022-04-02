@@ -18,11 +18,11 @@
  #1
 
 
-| header | header | header | header | header |
+|  | 月 | 季 | 年 | 永久 |
 |:------:|:------:|:------:|:------:|:------:|
-| content | content | content | content | content |
-| content | content | content | content | content |
-| content | content | content | content | content |
-| content | content | content | content | content |
-| content | content | content | content | content |
+| 豪华全套 | 10 | 27 | 96 | 399 |
+| 等级套装 | 5 | 13.5 | 48 | 199 |
+| 签到套装 | 3 | 8.1 | 28.8 | 120 |
+| 扩展套装 | 2 | 5.4 | 19.2 | 80 |
+| 任意单向 | 1 | 2.7 | 9.6 | 36 |
 
