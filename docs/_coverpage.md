@@ -1,12 +1,10 @@
-![logo](_media/icon.svg)
+![logo](photo/icon.svg)
 
-# docsify <small>4.12.2</small>
+# 新人指引 <small>新</small>
 
-> A magical documentation site generator.
+> 为您提供更好的服务！
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[新手帮助中心](https://github.com/docsifyjs/docsify/)
+[开通代挂教程](#docsify)
