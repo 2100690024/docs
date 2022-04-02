@@ -10,12 +10,23 @@
  4. 支持代挂异常后短信通知
 
 
+## 价格表
+
+|  | 月 | 季 | 年 | 永久 |
+|:----:|:----:|:----:|:----:|:----:|
+| 豪华全套 | 10 | 27 | 96 | 399 |
+| 等级套装 | 5 | 13.5 | 48 | 199 |
+| 签到套装 | 3 | 8.1 | 28.8 | 120 |
+| 扩展套装 | 2 | 5.4 | 19.2 | 80 |
+| 任意单向 | 1 | 2.7 | 9.6 | 36 |
+
+
 ## 关于
 
-> `站长QQ`：[2100690024](http://wpa.qq.com/msgrd?v=3&uin=2100690024&site=qq&menu=yes)
+ `站长QQ`：[2100690024](http://wpa.qq.com/msgrd?v=3&uin=2100690024&site=qq&menu=yes)
 
-> `客服QQ`：[202284725](http://wpa.qq.com/msgrd?v=3&uin=202284725&site=qq&menu=yes)
+ `客服QQ`：[202284725](http://wpa.qq.com/msgrd?v=3&uin=202284725&site=qq&menu=yes)
 
-> `官方群聊`：[892227310](https://jq.qq.com/?_wv=1027&k=Kv28qUa4)
+ `官方群聊`：[892227310](https://jq.qq.com/?_wv=1027&k=Kv28qUa4)
 
-> `官方网站`：[www.09dg.cc](http://www.09dg.cc/)
+ `代挂网址`：[www.09dg.cc](http://www.09dg.cc/)
