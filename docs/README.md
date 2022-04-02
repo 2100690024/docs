@@ -3,7 +3,7 @@
 本站用于帮助新用户了解代挂，提升用户体验！
 
 ## 代挂项目
-![代挂项目](https://s1.ax1x.com/2022/04/02/qoy9eg.png)
+![代挂项目](https://s1.ax1x.com/2022/04/02/qoW9mV.png)
 
 
 ## 代挂功能
@@ -27,9 +27,6 @@
 ## 关于
 
  `站长QQ`：[2100690024](http://wpa.qq.com/msgrd?v=3&uin=2100690024&site=qq&menu=yes)
-
  `客服QQ`：[202284725](http://wpa.qq.com/msgrd?v=3&uin=202284725&site=qq&menu=yes)
-
  `官方群聊`：[892227310](https://jq.qq.com/?_wv=1027&k=Kv28qUa4)
-
  `代挂网址`：[www.09dg.cc](http://www.09dg.cc/)
