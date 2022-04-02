@@ -27,6 +27,11 @@
 | 任意单向 | 1 | 2.7 | 9.6 | 36 |
 
 
+[scode type="share"]这是灰色的短代码框，常用来引用资料什么的[/scode]
+[scode type="yellow"]这是黄色的短代码框，常用来做提示，引起读者注意。[/scode]
+[scode type="red"]这是红色的短代码框，用于严重警告什么的。[/scode]
+[scode type="lblue"]这是浅蓝色的短代码框，用于显示一些信息。[/scode]
+[scode type="green"]这是绿色的短代码框，显示一些推荐信息。[/scode]
 
 
 [scode type="share"]这是灰色的短代码框，常用来引用资料什么的[/scode]
