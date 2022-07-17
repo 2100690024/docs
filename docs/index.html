@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="//docs.09dg.cc/css/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">加载中...</div>
   <script>
     window.$docsify = {
       el: '#app',
@@ -16,6 +16,12 @@
       loadNavbar: true,
       coverpage: true,
       loadSidebar: true,
+      pagination: {
+            previousText: '上一篇',
+            nextText: '下一篇',
+            crossChapter: true,
+            crossChapterText: true,
+        },
       search: {
                paths: 'auto',
                placeholder: '搜索',
