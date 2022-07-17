@@ -13,4 +13,4 @@
 
 
 
-[开始使用](/?id=docsify)
+[开始使用](/?id=README)
