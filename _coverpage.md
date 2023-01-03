@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://bfban.gametools.network/assets/img/logo.75abcc53.png)
+![logo](http://p.qlogo.cn/gh/747413170/747413170/100/)
 
 # 联Ban介绍 <small>1.0</small>
 
