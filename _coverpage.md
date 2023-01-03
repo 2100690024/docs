@@ -2,13 +2,12 @@
 
 ![logo](https://bfban.gametools.network/assets/img/logo.75abcc53.png)
 
-# docsify <small>3.5</small>
+# 联Ban介绍 <small>1.0</small>
 
-> A magical documentation site generator.
+> 本文档不代表联Ban
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 本文档为个人记录
+- 如有任何问题可以联系客服
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[联系客服](https://github.com/docsifyjs/docsify/)
+[开始](#README.md)
