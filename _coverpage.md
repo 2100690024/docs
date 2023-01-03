@@ -1,5 +1,6 @@
 <!-- _coverpage.md -->
 
+![logo](https://bfban.gametools.network/assets/img/logo.75abcc53.png)
 
 # docsify <small>3.5</small>
 
