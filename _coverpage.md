@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](http://p.qlogo.cn/gh/747413170/747413170/100/)
+![logo](icon.svg)
 
 # 联Ban介绍 <small>1.0</small>
 
