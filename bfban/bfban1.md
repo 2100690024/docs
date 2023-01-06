@@ -2,11 +2,11 @@
 
 1. 打开网址[https://battlefieldtracker.com/bfv](https://battlefieldtracker.com/bfv)
 
-![image-20230105130656291](C:\Users\21006\Desktop\DOCS\_images\1.png)
+![1](\_images\1.png)
 
 2. 点击输入框输入自己的游戏名字，然后回车
 
-![image-20230105130656291](C:\Users\21006\Desktop\DOCS\_images\2.png)
+![2](_images\2.png)
 
 3. 点击第三项游戏报告
 
