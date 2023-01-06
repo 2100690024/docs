@@ -2,7 +2,7 @@
 
 1. 打开网址[https://battlefieldtracker.com/bfv](https://battlefieldtracker.com/bfv)
 
-![1](/_images/bfban/1.png)
+![1](./_images/bfban/1.png)
 
 2. 点击输入框输入自己的游戏名字，然后回车
 
