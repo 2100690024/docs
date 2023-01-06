@@ -2,15 +2,15 @@
 
 1. 打开网址[https://battlefieldtracker.com/bfv](https://battlefieldtracker.com/bfv)
 
-![1](\_images\1.png)
+![1](/_images/1.png)
 
 2. 点击输入框输入自己的游戏名字，然后回车
 
-![2](_images\2.png)
+![2](_images/2.png)
 
 3. 点击第三项游戏报告
 
-![image-20230105130656291](C:\Users\21006\Desktop\DOCS\_images\3.png)
+![image-20230105130656291](_images/3.png)
 
 4. 人工检测自行过一下
 
