@@ -1,7 +1,7 @@
 - 开始
 
   - [关于本站](README.md)
-  - [联Ban申诉](brban.md)
+  - [联Ban申诉](bfban.md)
 
 - 刷枪说明
 
