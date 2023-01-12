@@ -45,3 +45,15 @@
 3. 无脑注册成功后，点击登录
 
 ![9](https://s1.ax1x.com/2023/01/12/pSucgmQ.png)
+
+4. 登录成功后点击举报作弊
+
+![10](https://s1.ax1x.com/2023/01/12/pSucXkR.png)
+
+5.按图片填写
+
+![11](https://s1.ax1x.com/2023/01/12/pSu2P2V.png)
+
+![12](https://s1.ax1x.com/2023/01/12/pSu2C80.png)
+
+![13](https://s1.ax1x.com/2023/01/12/pSu2ivT.png)
