@@ -40,8 +40,8 @@
 
 2. 点击注册
 
-![8](C:\Users\21006\Desktop\DOCS\_images\8.png)
+![8](https://s1.ax1x.com/2023/01/12/pSucaTA.png)
 
 3. 无脑注册成功后，点击登录
 
-![9](C:\Users\21006\Desktop\DOCS\_images\9.png)
+![9](https://s1.ax1x.com/2023/01/12/pSucgmQ.png)
