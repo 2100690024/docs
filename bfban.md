@@ -20,15 +20,15 @@
 
 5. 筛选一下(这样能快速找到战绩)
 
-![5](../_images/bfban/7.png)
+![5](https://s1.ax1x.com/2023/01/12/pSu6TZd.png)
 
 6. 找到后点击
 
-![6](../_images/bfban/5.png)
+![6](https://s1.ax1x.com/2023/01/12/pSu6HII.png)
 
 7. 复制链接（主要是异常武器的刷枪战绩）
 
-![7](../_images/bfban/6.png)
+![7](https://s1.ax1x.com/2023/01/12/pSu67dA.png)
 
 保存所有链接（链接格式格式）
 
