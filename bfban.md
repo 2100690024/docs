@@ -4,19 +4,19 @@
 
 1. 打开网址[https://battlefieldtracker.com/bfv](https://battlefieldtracker.com/bfv)
 
-![1](../_images/bfban/1.png)
+![1](https://s1.ax1x.com/2023/01/12/pSuZkmq.png)
 
 2. 点击输入框输入自己的游戏名字，然后回车
 
-![2](../_images/bfban/2.png)
+![2](https://s1.ax1x.com/2023/01/12/pSuZup4.png)
 
 3. 点击第三项游戏报告
 
-![3](../_images/bfban/3.png)
+![3](https://s1.ax1x.com/2023/01/12/pSuZQXR.png)
 
 4. 人工检测自行过一下
 
-![4](../_images/bfban/4.png)
+![4](https://s1.ax1x.com/2023/01/12/pSuZJAK.png)
 
 5. 筛选一下(这样能快速找到战绩)
 
